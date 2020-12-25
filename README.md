@@ -1,4 +1,7 @@
-### Hi there 👋
+Aim to automatise all infrastructure aspects to avoid human errors. Love "keep it simple" concept
+
+- 🔭 I’m currently working on Ansible stuffs
+- 🌱 I’m currently learning Terraform
 
 <!--
 **Turgon37/Turgon37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
